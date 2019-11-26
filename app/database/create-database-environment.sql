@@ -1,4 +1,4 @@
--- execute following commands in a mySql server to create the necessary environment for the application 
+-- execute following commands in a mySql server prompt to create the necessary environment for the application 
  
 CREATE DATABASE `portal_noticias`;
 
