@@ -1,5 +1,5 @@
 # curso-nodejs
-Portal de Noticias application repository used in a NodeJS course
+News Portal application repository used in a NodeJS course
 
 ## Configuring the environment
 First instal [nodejs](https://nodejs.org/).
