@@ -1,5 +1,5 @@
 {
-  "name": "portal-noticias",
+  "name": "news-portal",
   "version": "1.0.0",
   "description": "Site de noticias",
   "main": "noticias.js",
@@ -27,6 +27,6 @@
     "mysql": "^2.17.1"
   },
   "devDependencies": {
-    "nodemon": "^2.0.1"
+    "nodemon": "^2.0.2"
   }
 }
